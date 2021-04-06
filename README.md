@@ -1,2 +1,2 @@
-# Projects
- Folder of all my projects
+# Javascript Fundamentals 
+ My documented study archives of javascript
